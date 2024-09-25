@@ -22,9 +22,9 @@
 .container {
   background-image: linear-gradient(
     0.25turn,
-    rgb(248, 163, 231),
-    rgb(238, 139, 235),
-    rgb(136, 175, 242)
+    rgb(163, 248, 189),
+    rgb(139, 235, 238),
+    rgb(152, 136, 242)
   );
   height: 100vh;
 }
